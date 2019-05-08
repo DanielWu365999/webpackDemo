@@ -1,1 +1,2 @@
 # webpackDemo
+webpack + scss + ejs
